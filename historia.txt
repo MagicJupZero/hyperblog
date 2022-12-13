@@ -2,4 +2,5 @@ Prueba de documento papakingkong
 pruegba de cambio
 Cambiando el archivo para actualizar
 
-Historia de su vida
+Cambio depues de realizar checkout del master
+luego escribimos algo mas.
